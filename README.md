@@ -4,16 +4,16 @@
 -   📫 Reach me at: **lukewheldale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/luke-wheldale-8b992b116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luke Wheldale" height="30" width="40" /></a>
 </p>
 
 
 <a href="https://github.com/Looch8/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Looch8&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Looch8&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/Looch8/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=Looch8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Looch8" />
 </a>
 
 <!--
