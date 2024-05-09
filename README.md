@@ -1,6 +1,3 @@
-<h1 align="center">Hello 👋, my name is Luke Wheldale</h1>
-<h3 align="center">Based in Adelaide, Australia.</h3>
-
 -   📫 Reach me at: **lukewheldale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
